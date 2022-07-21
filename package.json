@@ -1,0 +1,16 @@
+{
+  "name": "cumdump",
+  "version": "1.0.0",
+  "description": "collection of hot garbage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "caret_",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.5",
+    "typescript": "^4.7.4"
+  }
+}
